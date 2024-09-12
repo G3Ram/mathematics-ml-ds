@@ -2,7 +2,7 @@
 
 ## Section 1: **Linear Algebra**
 
-1. **Module 1: Topic Name**
+1. **Module 1: System of Linear Equations**
    - Key concepts
    - Resources (books, articles, videos)
    - Exercises or assignments
