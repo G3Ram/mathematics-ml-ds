@@ -14,7 +14,7 @@ Here are a few recommended learning materials
 
 ## Section 1: **Linear Algebra**
 
-1. **Module 1.1: System of Linear Equations**
+1. <span style="color:blue">Module 1.1: System of Linear Equations</span>
 
    Matrices are commonly used in machine learning and data science to represent data and its transformations. In this week, you will learn how matrices naturally arise from systems of equations and how certain matrix properties can be thought in terms of operations on system of equations.
 
