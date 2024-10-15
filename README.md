@@ -60,21 +60,14 @@ Here are a few recommended learning materials
 
 ## Section 2: **Calculus**
 
-1. **Module 2.1: Derivatives and Optimization**
+In this course, you will:
 
-   After completing this course, you will be able to:
+**Learning Objectives**
 
-   **Learning Objectives**
-
-   - Perform gradient descent in neural networks with different activation and cost functions
-   - Visually interpret differentiation of different types of functions commonly used in machine learning
-   - Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
-   - Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients.
-
-2. **Module 2: Topic Name**
-   - Key concepts
-   - Resources
-   - Exercises or assignments
+- Perform gradient descent in neural networks with different activation and cost functions
+- Visually interpret differentiation of different types of functions commonly used in machine learning
+- Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
+- Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients.
 
 ## Section 3: **Probability**
 
