@@ -71,11 +71,18 @@ In this course, you will:
 
 ## Section 3: **Probability**
 
-1. **Module 1: Topic Name**
-   - Key concepts
-   - Resources (books, articles, videos)
-   - Exercises or assignments
-2. **Module 2: Topic Name**
-   - Key concepts
-   - Resources
-   - Exercises or assignments
+1. **Module 3.1: Introduction to Probability and Probability Distribution**
+
+   In this week, you will learn about probability of events and various rules of probability to correctly do arithmetic with probabilities. You will learn the concept of conditional probability and the key idea behind Bayes theorem. In lesson 2, we generalize the concept of probability of events to probability distribution over random variables. You will learn about some common probability distributions like the Binomial distribution and the Normal distribution.
+
+2. **Module 3.2: Describing Probability Distribution and Probability Distribution with Multi Variables**
+
+   This week you will learn about different measures to describe probability distributions as well as any dataset. These include measures of central tendency (mean, median, and mode), variance, skewness, and kurtosis. The concept of the expected value of a random variable is introduced to help you understand each of these measures. You will also learn about some visual tools to describe data and distributions. In lesson 2, you will learn about the probability distribution of two or more random variables using concepts like joint distribution, marginal distribution, and conditional distribution. You will end the week by learning about covariance: a generalization of variance to two or more random variables.
+
+3. **Module 3.3: Sampling and Point Estimation**
+
+   This week shifts its focus from probability to statistics. You will start by learning the concept of a sample and a population and two fundamental results from statistics that concern samples and population: the law of large numbers and the central limit theorem. In lesson 2, you will learn the first and the simplest method of estimation in statistics: point estimation. You will see how maximum likelihood estimation, the most common point estimation method, works and how regularization helps prevent overfitting. You'll then learn how Bayesian Statistics incorporates the concept of prior beliefs into the way data is evaluated and conclusions are reached.
+
+4. **Module 3.4: Confidence Intervals and Hypothesis Testing**
+
+   This week you will learn another estimation method called interval estimation. The most common interval estimates are confidence intervals and you will see how they are calculated and how to correctly interpret them. In lesson 2, you will learn about hypothesis testing where estimates are formulated as a hypothesis and then tested in the presence of available evidence or a sample of data. You will learn the concept of p-value that helps in making a decision about a hypothesis test and also learn some common tests like the t-test, two-sample t-test, and the paired t-test. You will end the week with an interesting application of hypothesis testing in data science: A/B testing.
